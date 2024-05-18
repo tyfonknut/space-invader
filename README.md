@@ -11,6 +11,7 @@ Yes (No), this is only temporary (permanent).
 
 ## What I've learned?
 
-By planning, preparing test with expected outcomes, following the design recipes, so did I find out a few things.
-Making templates, signatures and other things helped in writing code and taking a lot of guesswork out of it.
-Taking away nedded work helped to separate problems into section or bite sizes that was easy to work with.
+With preparing test with expected outcomes and following the design recipes, did I find out the following.
+By making templates and signatures, so did I end up taking a lot of guesswork out of it.
+Taking away needed work helped to lessen the amount of thinking.
+It helped separated problems into section or bite sizes that was easier to work with.
